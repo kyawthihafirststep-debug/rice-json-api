@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "rice_varieties.json", "use": "@vercel/static" }
+  ]
+}
