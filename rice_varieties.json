@@ -1527,9 +1527,9 @@
 },
     {
   "category_id": "C-005",
-  "image_url": "assets/images/Specialty Rice.jpg",
-  "category_name_mm": "အထူးပြုစပါးများ",
-  "category_name_en": "Specialty Rice",
+  "image_url": "assets/images/Export & Industrial.jpg",
+  "category_name_mm": "ကျန်းမာရေးအထူးပြုစပါးများ",
+  "category_name_en": "Healthy Rice",
   "description_mm": "ကျန်းမာရေးနှင့် ရိုးရာအစားအစာများအတွက် အထူးစိုက်ပျိုးသော စပါးများ",
   "description_en": "Specialty rice varieties cultivated specifically for health benefits and traditional foods.",
   "varieties": [
