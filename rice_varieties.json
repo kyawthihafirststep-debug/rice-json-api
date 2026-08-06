@@ -1534,154 +1534,6 @@
   "description_en": "Specialty rice varieties cultivated specifically for health benefits and traditional foods.",
   "varieties": [
     {
-      "id": "R-022",
-      "name_mm": "ကောက်ညှင်းမွှေး",
-      "name_en": "Fragrant Sticky Rice",
-      "season_mm": "မိုးစပါး",
-      "season_en": "Monsoon Rice",
-      "life_cycle_days": 140,
-      "yield_potential_mm": "၅၀ - ၇၀ တင်း",
-      "yield_potential_en": "50 - 70 Baskets per acre",
-      "grain_type_mm": "ကောက်ညှင်း/အမွှေး",
-      "grain_type_en": "Sticky / Fragrant grain",
-      "plant_height_mm": "၁၁၀ - ၁၂၀ စင်တီမီတာ",
-      "plant_height_en": "110 - 120 cm",
-      "soil_type_mm": "သြဇာကောင်းသော နုန်းမြေ",
-      "soil_type_en": "Fertile alluvial soil",
-      "sowing_time_mm": "ဇွန်လ မှ ဇူလိုင်လ",
-      "sowing_time_en": "June to July",
-      "harvesting_time_mm": "နိုဝင်ဘာလ မှ ဒီဇင်ဘာလ",
-      "harvesting_time_en": "November to December",
-      "resistances_mm": [
-        "ရောဂါဒဏ်",
-        "ပိုးမွှားဒဏ် (အသင့်အတင့်)"
-      ],
-      "resistances_en": [
-        "Disease resistance",
-        "Moderate pest resistance"
-      ],
-      "description_mm": "အနံ့မွှေးကြိုင်သော ကောက်ညှင်းစပါးဖြစ်ပြီး ရိုးရာမုန့်များအတွက် အထူးကောင်းမွန်သည်။ အရည်အသွေးမြင့်မားသဖြင့် အထူးလိုအပ်ချက်ရှိသော ဈေးကွက်တွင် ဈေးကောင်းရရှိသည်။",
-      "description_en": "A fragrant sticky rice variety, exceptionally good for traditional confectionery. Commands a good price in niche markets due to its high quality.",
-      "diseases_and_pests": [
-        {
-          "name_mm": "စပါးဂုတ်ကျိုးရောဂါ",
-          "name_en": "Neck Blast",
-          "symptoms_mm": "အနှံလည်ပင်းတွင် အမည်းကွက်ဖြစ်ပြီး အနှံကျိုးကျခြင်း",
-          "symptoms_en": "Black spot at the panicle neck causing breakage",
-          "treatment_mm": "ထရိုင်ဆိုင်ကလာဇော (Tricyclazole) ပါဝင်သော မှိုသတ်ဆေးများ အသုံးပြုရန်။",
-          "treatment_en": "Use Tricyclazole-based fungicides."
-        },
-        {
-          "name_mm": "စပါးရွက်လိပ်ပိုး",
-          "name_en": "Leaf Folder",
-          "symptoms_mm": "အရွက်များလိပ်ပြီး အတွင်းမှ စားသောက်ခြင်း",
-          "symptoms_en": "Leaves roll and tissue is eaten from inside",
-          "treatment_mm": "အေဘမက်တင် (Abamectin) သို့မဟုတ် ကာတက် (Cartap Hydrochloride) ကို အညွှန်းအတိုင်း ဖျန်းပေးရန်။",
-          "treatment_en": "Spray Abamectin or Cartap Hydrochloride according to instructions."
-        },
-        {
-          "name_mm": "ပိုးစိမ်းဖျက်",
-          "name_en": "Rice Bug",
-          "symptoms_mm": "စပါးစေ့များကို စုပ်စားသဖြင့် အစေ့မပါခြင်း (သို့) အစေ့ညိုမည်းခြင်း",
-          "symptoms_en": "Sucks grain sap causing empty or blackened grains",
-          "treatment_mm": "အစီဖိတ် (Acephate) သို့မဟုတ် ဖစ်ပရိုနေး (Fipronil) ပါဝင်သော ဆေးများ အသုံးပြုရန်။",
-          "treatment_en": "Use Acephate or Fipronil-based treatments."
-        },
-        {
-          "name_mm": "ခါးရိရောဂါ",
-          "name_en": "Sheath Blight",
-          "symptoms_mm": "ပင်ခြေတွင် အညိုရောင်အကွက်ဖြစ်ပြီး အပင်လဲပြိုခြင်း",
-          "symptoms_en": "Brown patches at the base causing plant lodging",
-          "treatment_mm": "ကာဘန်ဒါဇင် (Carbendazim) သို့မဟုတ် မန်ကိုဇက် (Mancozeb) ပါဝင်သော ဆေးများဖြင့် ပင်ခြေကို နှံ့စပ်အောင် ဖျန်းပေးရန်။",
-          "treatment_en": "Thoroughly spray the plant base with Carbendazim or Mancozeb-based treatments."
-        }
-      ],
-      "cultivation_tips": {
-        "fertilizer_plan_mm": "ကောက်ညှင်းစပါးသည် အပင်ကြီးထွားမှုနှေးကွေးတတ်သဖြင့် မြေခံမြေသြဇာကို စနစ်တကျထည့်သွင်းပြီး အပင်သက်တမ်းအလိုက် ယူရီးယား၊ တီစူပါ နှင့် ပိုတက်ရှ်ကို မျှတစွာထည့်ပေးရန်။",
-        "fertilizer_plan_en": "Since sticky rice tends to have slower early growth, systematically apply base fertilizer and balanced amounts of urea, triple superphosphate, and potash according to crop age.",
-        "optimal_water_level_mm": "အပင်ဖြစ်ထွန်းချိန်တွင် ရေလိုအပ်ချက် အမြဲရှိသဖြင့် ရေသွင်းရေထုတ် စနစ်တကျ ပြုလုပ်ပေးရမည်။",
-        "optimal_water_level_en": "Ensure proper irrigation and drainage management as there is a constant water requirement during the plant's development."
-      },
-      "market_value_mm": "မြင့်မား (ရိုးရာမုန့်လုပ်ငန်းနှင့် အထူးစားသောက်ဆိုင်များအတွက် ဝယ်လိုအားရှိသည်)",
-      "market_value_en": "High (In demand for traditional confectionery and specialty restaurants)",
-      "best_practices_mm": "မျိုးစေ့သန့်စင်ခြင်း (ဆားရည်စိမ်) လုပ်ဆောင်ပြီးမှ စိုက်ပျိုးပါ။ ပေါင်းမြက်ကင်းစင်အောင် ထိန်းသိမ်းခြင်းက အထွက်နှုန်းနှင့် အရည်အသွေးကို ပိုမိုကောင်းမွန်စေပါသည်။",
-      "best_practices_en": "Clean seeds (saltwater soaking) before planting. Keeping fields weed-free further improves yield and quality."
-    },
-    {
-      "id": "R-008",
-      "name_mm": "ငချိတ် (ကောက်ညှင်းမဲ)",
-      "name_en": "Black Sticky Rice",
-      "season_mm": "မိုးစပါး",
-      "season_en": "Monsoon Rice",
-      "life_cycle_days": 150,
-      "yield_potential_mm": "၄၀ - ၆၀ တင်း",
-      "yield_potential_en": "40 - 60 Baskets per acre",
-      "grain_type_mm": "ကောက်ညှင်း/အမည်း",
-      "grain_type_en": "Black sticky grain",
-      "plant_height_mm": "၁၁၅ - ၁၂၅ စင်တီမီတာ",
-      "plant_height_en": "115 - 125 cm",
-      "soil_type_mm": "သြဇာကောင်းသော နုန်းမြေ သို့မဟုတ် မြေစေး",
-      "soil_type_en": "Fertile alluvial soil or clay",
-      "sowing_time_mm": "ဇွန်လ",
-      "sowing_time_en": "June",
-      "harvesting_time_mm": "ဒီဇင်ဘာလ",
-      "harvesting_time_en": "December",
-      "resistances_mm": [
-        "ရာသီဥတုဒဏ်",
-        "ပိုးမွှားဒဏ် (အသင့်အတင့်)"
-      ],
-      "resistances_en": [
-        "Weather tolerance",
-        "Moderate pest resistance"
-      ],
-      "description_mm": "အာဟာရဓာတ်ကြွယ်ဝပြီး ရိုးရာမုန့်များပြုလုပ်ရာတွင် အဓိကအသုံးပြုသည်။ ကျန်းမာရေးအတွက် အကျိုးကျေးဇူးများသဖြင့် ဈေးကွက်တွင် ဝယ်လိုအားမြင့်မားသော အထူးမျိုးဖြစ်သည်။",
-      "description_en": "Nutrient-rich variety primarily used for traditional desserts. A specialty variety with high market demand due to its health benefits.",
-      "diseases_and_pests": [
-        {
-          "name_mm": "စပါးဂုတ်ကျိုးရောဂါ",
-          "name_en": "Neck Blast",
-          "symptoms_mm": "အနှံလည်ပင်းတွင် အမည်းကွက်ဖြစ်ပြီး အနှံကျိုးကျခြင်း",
-          "symptoms_en": "Black spot at the panicle neck causing breakage",
-          "treatment_mm": "ထရိုင်ဆိုင်ကလာဇော (Tricyclazole) ပါဝင်သော မှိုသတ်ဆေးများ အသုံးပြုရန်။",
-          "treatment_en": "Use Tricyclazole-based fungicides."
-        },
-        {
-          "name_mm": "စပါးရွက်လိပ်ပိုး",
-          "name_en": "Leaf Folder",
-          "symptoms_mm": "အရွက်များလိပ်ပြီး အတွင်းမှ စားသောက်ခြင်း",
-          "symptoms_en": "Leaves roll and tissue is eaten from inside",
-          "treatment_mm": "အေဘမက်တင် (Abamectin) သို့မဟုတ် ကာတက် (Cartap Hydrochloride) ကို အညွှန်းအတိုင်း ဖျန်းပေးရန်။",
-          "treatment_en": "Spray Abamectin or Cartap Hydrochloride according to instructions."
-        },
-        {
-          "name_mm": "ပိုးစိမ်းဖျက်",
-          "name_en": "Rice Bug",
-          "symptoms_mm": "စပါးစေ့များကို စုပ်စားသဖြင့် အစေ့မပါခြင်း (သို့) အစေ့ညိုမည်းခြင်း",
-          "symptoms_en": "Sucks grain sap causing empty or blackened grains",
-          "treatment_mm": "အစီဖိတ် (Acephate) သို့မဟုတ် ဖစ်ပရိုနေး (Fipronil) ပါဝင်သော ဆေးများ အသုံးပြုရန်။",
-          "treatment_en": "Use Acephate or Fipronil-based treatments."
-        },
-        {
-          "name_mm": "ခါးရိရောဂါ",
-          "name_en": "Sheath Blight",
-          "symptoms_mm": "ပင်ခြေတွင် အညိုရောင်အကွက်ဖြစ်ပြီး အပင်လဲပြိုခြင်း",
-          "symptoms_en": "Brown patches at the base causing plant lodging",
-          "treatment_mm": "ကာဘန်ဒါဇင် (Carbendazim) သို့မဟုတ် မန်ကိုဇက် (Mancozeb) ပါဝင်သော ဆေးများဖြင့် ပင်ခြေကို နှံ့စပ်အောင် ဖျန်းပေးရန်။",
-          "treatment_en": "Thoroughly spray the plant base with Carbendazim or Mancozeb-based treatments."
-        }
-      ],
-      "cultivation_tips": {
-        "fertilizer_plan_mm": "အခြားစပါးမျိုးများထက် သက်တမ်းပိုရှည်သဖြင့် ယူရီးယား၊ တီစူပါ နှင့် ပိုတက်ရှ်မြေသြဇာတို့ကို အပင်၏ အဆင့်အလိုက် အချိန်ကိုက် ခွဲကျွေးရန်။",
-        "fertilizer_plan_en": "Since its life cycle is longer than other varieties, apply urea, triple superphosphate, and potash in timed, split doses according to growth stages.",
-        "optimal_water_level_mm": "ရေလိုအပ်ချက်ရှိသော်လည်း ရေဝပ်လွန်းခြင်းကို ရှောင်ရှားပြီး ရေသွင်းရေထုတ် စနစ်တကျ ပြုလုပ်ပေးရန်။",
-        "optimal_water_level_en": "Requires water but avoid excessive waterlogging; manage proper irrigation and drainage systems."
-      },
-      "market_value_mm": "မြင့်မား (အာဟာရတန်ဖိုးမြင့်မားသောကြောင့် ဈေးကောင်းရရှိသည်)",
-      "market_value_en": "High (Commands a good price due to high nutritional value)",
-      "best_practices_mm": "မျိုးစေ့ကို သန့်စင်ပြီးမှ စိုက်ပျိုးပါ။ ပေါင်းမြက်ကင်းစင်အောင် ထိန်းသိမ်းခြင်းက အထွက်နှုန်းနှင့် အရည်အသွေးကို ပိုမိုကောင်းမွန်စေပါသည်။",
-      "best_practices_en": "Clean seeds before planting. Keeping fields weed-free further improves yield and quality."
-    },
-    {
       "id": "R-023",
       "name_mm": "ခွန်နီ",
       "name_en": "Red Rice",
@@ -1904,6 +1756,778 @@
       "best_practices_en": "Plants must be pre-cultivated to over 30 days of age before floods arrive so they have the capacity to elongate with the rising water."
     }
   ]
+  
+},
+ {
+  "category_id": "C-006",
+  "image_url": "assets/images/Long-Grain Rice.jpg",
+  "category_name_mm": "အစေ့ရှည် / စံပယ်စပါးများ",
+  "category_name_en": "Long-Grain / Basmati Type Rice",
+  "description_mm": "အစေ့ရှည်လျားပြီး သဘာဝအတိုင်း ရနံ့မွှေးကြိုင်ကာ အရည်အသွေးမြင့် စားသုံးမှုအတွက် အဓိကစိုက်ပျိုးသော စပါးများ",
+  "description_en": "High-quality rice varieties characterized by long grains and natural aroma, cultivated for premium consumption.",
+  "varieties": [
+    {
+      "id": "R-026",
+      "name_mm": "ဘာစမတီစပါး (ဘာစမတီဆန်)",
+      "name_en": "Basmati Rice",
+      "season_mm": "မိုးစပါး / ဆောင်းစပါး",
+      "season_en": "Monsoon / Winter Rice",
+      "life_cycle_days": 135,
+      "yield_potential_mm": "၅၀ - ၆၅ တင်း",
+      "yield_potential_en": "50 - 65 Baskets per acre",
+      "grain_type_mm": "အစေ့ရှည် / သွယ်လျ / အမွှေး",
+      "grain_type_en": "Extra long / Slender / Aromatic grain",
+      "plant_height_mm": "၁၀၅ - ၁၂၅ စင်တီမီတာ",
+      "plant_height_en": "105 - 125 cm",
+      "soil_type_mm": "သြဇာထက်သန်သော နုန်းမြေ သို့မဟုတ် မြေစိမ့်မြေ",
+      "soil_type_en": "Fertile alluvial soil or moisture-retaining loam",
+      "sowing_time_mm": "ဇွန်လ မှ ဇူလိုင်လ",
+      "sowing_time_en": "June to July",
+      "harvesting_time_mm": "နိုဝင်ဘာလ မှ ဒီဇင်ဘာလ",
+      "harvesting_time_en": "November to December",
+      "resistances_mm": [
+        "အနံ့မွှေးဓာတ် ထိန်းသိမ်းနိုင်မှု",
+        "အစေ့ကြွေကျမှုဒဏ် (အသင့်အတင့်)"
+      ],
+      "resistances_en": [
+        "Aroma retention",
+        "Moderate shattering resistance"
+      ],
+      "description_mm": "အိန္ဒိယနှင့် ပါကစ္စတန်တို့မှ မူလထွက်ရှိပြီး အစေ့အလွန်ရှည်လျားသည့် ပရီမီယံဆန်မျိုးဖြစ်သည်။ ချက်ပြုတ်လိုက်ပါက မူလထက် ၂ ဆနီးပါး အလျားရှည်ထွက်လာပြီး အစေ့များ လုံးဝမကပ်ဘဲ သီးခြားစီ ခြောက်သွေ့နေသည်။ ဒံပေါက်နှင့် အိန္ဒိယ အစားအစာများအတွက် အဓိက အသုံးပြုသည်။",
+      "description_en": "A world-renowned premium rice variety originally from India and Pakistan. Known for its extra-long slender grains that elongate up to double their length when cooked, remaining completely separate and dry. Essential for biryani and South Asian cuisine.",
+      "diseases_and_pests": [
+        {
+          "name_mm": "စပါးဂုတ်ကျိုးရောဂါ",
+          "name_en": "Neck Blast",
+          "symptoms_mm": "အနှံလည်ပင်းတွင် အမည်းကွက်ဖြစ်ပြီး အနှံကျိုးကျခြင်း",
+          "symptoms_en": "Black spot at the panicle neck causing breakage",
+          "treatment_mm": "ထရိုင်ဆိုင်ကလာဇော (Tricyclazole) ပါဝင်သော မှိုသတ်ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Tricyclazole-based fungicides."
+        },
+        {
+          "name_mm": "စပါးရွက်လိပ်ပိုး",
+          "name_en": "Leaf Folder",
+          "symptoms_mm": "အရွက်များလိပ်ပြီး အတွင်းမှ စားသောက်ခြင်း",
+          "symptoms_en": "Leaves roll and tissue is eaten from inside",
+          "treatment_mm": "အေဘမက်တင် (Abamectin) သို့မဟုတ် ကာတက် (Cartap Hydrochloride) ကို အညွှန်းအတိုင်း ဖျန်းပေးရန်။",
+          "treatment_en": "Spray Abamectin or Cartap Hydrochloride according to instructions."
+        },
+        {
+          "name_mm": "ပိုးစိမ်းဖျက်",
+          "name_en": "Rice Bug",
+          "symptoms_mm": "စပါးစေ့များကို စုပ်စားသဖြင့် အစေ့မပါခြင်း (သို့) အစေ့ညိုမည်းခြင်း",
+          "symptoms_en": "Sucks grain sap causing empty or blackened grains",
+          "treatment_mm": "အစီဖိတ် (Acephate) သို့မဟုတ် ဖစ်ပရိုနေး (Fipronil) ပါဝင်သော ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Acephate or Fipronil-based treatments."
+        },
+        {
+          "name_mm": "ခါးရိရောဂါ",
+          "name_en": "Sheath Blight",
+          "symptoms_mm": "ပင်ခြေတွင် အညိုရောင်အကွက်ဖြစ်ပြီး အပင်လဲပြိုခြင်း",
+          "symptoms_en": "Brown patches at the base causing plant lodging",
+          "treatment_mm": "ကာဘန်ဒါဇင် (Carbendazim) သို့မဟုတ် မန်ကိုဇက် (Mancozeb) ပါဝင်သော ဆေးများဖြင့် ပင်ခြေကို နှံ့စပ်အောင် ဖျန်းပေးရန်။",
+          "treatment_en": "Thoroughly spray the plant base with Carbendazim or Mancozeb-based treatments."
+        }
+      ],
+      "cultivation_tips": {
+        "fertilizer_plan_mm": "အနံ့မွှေးဓာတ် လျော့နည်းမသွားစေရန် နိုက်ထရိုဂျင် (ယူရီးယား) မြေသြဇာကို လွန်ကဲစွာ မသုံးရပါ။ တီစူပါနှင့် ပိုတက်ရှ်ကို မျှတစွာ သုံးပေးပြီး ပန်းပွင့်ချိန်တွင် အာဟာရလိုအပ်ချက်ကို အထူးဂရုပြုရန်။",
+        "fertilizer_plan_en": "Avoid excessive nitrogen (urea) application to preserve its signature aroma. Apply balanced amounts of triple superphosphate and potash, with careful attention during flowering.",
+        "optimal_water_level_mm": "စိုက်ခင်းအတွင်း ရေမပြတ်ရှိနေရန် လိုအပ်ပြီး ရိတ်သိမ်းခါနီး ၁၀ ရက်မှ ၁၄ ရက်ခန့် အလိုတွင် ရေလုံးဝ ထုတ်ပေးရန်။",
+        "optimal_water_level_en": "Maintain consistent water levels in the field, and drain completely 10 to 14 days prior to harvesting."
+      },
+      "market_value_mm": "အလွန်မြင့်မား (ဒံပေါက်၊ ပလာအိုနှင့် အထူးစားသောက်ဆိုင်များ၊ ပြည်ပတင်ပို့မှုအတွက် အလွန်ဈေးကောင်းရရှိသည်)",
+      "market_value_en": "Very High (Exceptional price in biryani/pulao markets, high-end restaurants, and export trades)",
+      "best_practices_mm": "မျိုးစေ့ကို ဆားရည်စိမ် သန့်စင်ပြီးမှ စိုက်ပျိုးပါ။ ရိတ်သိမ်းပြီးပါက စပါးအစိုဓာတ် ၁၂% - ၁၄% ရောက်အောင် စနစ်တကျ အခြောက်ခံ အသက်နှပ်ထားခြင်းဖြင့် ဆန်အကြေနည်းပြီး အနံ့ ပိုမိုကောင်းမွန်စေပါသည်။",
+      "best_practices_en": "Perform saltwater seed purification before planting. Proper drying to 12-14% moisture and aging after harvest minimizes breakage and enhances aroma."
+    },
+    {
+      "id": "R-027",
+      "name_mm": "ဂျက်စမင်း / စံပယ်ဆန်စပါး",
+      "name_en": "Jasmine Rice (Thai Hom Mali)",
+      "season_mm": "မိုးစပါး",
+      "season_en": "Monsoon Rice",
+      "life_cycle_days": 130,
+      "yield_potential_mm": "၅၅ - ၇၀ တင်း",
+      "yield_potential_en": "55 - 70 Baskets per acre",
+      "grain_type_mm": "အစေ့ရှည် / စံပယ်နံ့မွှေး",
+      "grain_type_en": "Long-Grain / Jasmine Floral Fragrant",
+      "plant_height_mm": "၁၀၀ - ၁၁၅ စင်တီမီတာ",
+      "plant_height_en": "100 - 115 cm",
+      "soil_type_mm": "နုန်းစေးမြေ သို့မဟုတ် သြဇာထက်သန်သော မြေပြန့်မြေ",
+      "soil_type_en": "Silty clay or fertile flatland soil",
+      "sowing_time_mm": "ဇွန်လ မှ ဇူလိုင်လ",
+      "sowing_time_en": "June to July",
+      "harvesting_time_mm": "နိုဝင်ဘာလ မှ ဒီဇင်ဘာလ",
+      "harvesting_time_en": "November to December",
+      "resistances_mm": [
+        "စံပယ်ရနံ့ မပျောက်ပျက်မှု",
+        "ရောဂါဒဏ် (အသင့်အတင့်)"
+      ],
+      "resistances_en": [
+        "Floral aroma preservation",
+        "Moderate disease resistance"
+      ],
+      "description_mm": "ထိုင်းနိုင်ငံမှ ထင်ရှားသော သဘာဝစံပယ်ပန်းရနံ့သင်းပျံ့သည့် အစေ့ရှည်ဆန်ဖြစ်သည်။ ချက်ပြုတ်ပြီးပါက နူးညံ့စိုစွတ်ပြီး အနည်းငယ် စီးကပ်သော အထိအတွေ့ရှိသည်။ အရှေ့တောင်အာရှ ဟင်းလျာများ၊ ထိုင်းအစားအစာများနှင့် အလွန်လိုက်ဖက်သည်။",
+      "description_en": "A famous long-grain variety originally from Thailand, noted for its natural jasmine-like floral aroma. Cooked rice is soft, moist, and slightly sticky. Perfectly complements Southeast Asian dishes and Thai cuisine.",
+      "diseases_and_pests": [
+        {
+          "name_mm": "စပါးဂုတ်ကျိုးရောဂါ",
+          "name_en": "Neck Blast",
+          "symptoms_mm": "အနှံလည်ပင်းတွင် အမည်းကွက်ဖြစ်ပြီး အနှံကျိုးကျခြင်း",
+          "symptoms_en": "Black spot at the panicle neck causing breakage",
+          "treatment_mm": "ထရိုင်ဆိုင်ကလာဇော (Tricyclazole) ပါဝင်သော မှိုသတ်ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Tricyclazole-based fungicides."
+        },
+        {
+          "name_mm": "စပါးရွက်လိပ်ပိုး",
+          "name_en": "Leaf Folder",
+          "symptoms_mm": "အရွက်များလိပ်ပြီး အတွင်းမှ စားသောက်ခြင်း",
+          "symptoms_en": "Leaves roll and tissue is eaten from inside",
+          "treatment_mm": "အေဘမက်တင် (Abamectin) သို့မဟုတ် ကာတက် (Cartap Hydrochloride) ကို အညွှန်းအတိုင်း ဖျန်းပေးရန်။",
+          "treatment_en": "Spray Abamectin or Cartap Hydrochloride according to instructions."
+        },
+        {
+          "name_mm": "ပိုးစိမ်းဖျက်",
+          "name_en": "Rice Bug",
+          "symptoms_mm": "စပါးစေ့များကို စုပ်စားသဖြင့် အစေ့မပါခြင်း (သို့) အစေ့ညိုမည်းခြင်း",
+          "symptoms_en": "Sucks grain sap causing empty or blackened grains",
+          "treatment_mm": "အစီဖိတ် (Acephate) သို့မဟုတ် ဖစ်ပရိုနေး (Fipronil) ပါဝင်သော ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Acephate or Fipronil-based treatments."
+        },
+        {
+          "name_mm": "ခါးရိရောဂါ",
+          "name_en": "Sheath Blight",
+          "symptoms_mm": "ပင်ခြေတွင် အညိုရောင်အကွက်ဖြစ်ပြီး အပင်လဲပြိုခြင်း",
+          "symptoms_en": "Brown patches at the base causing plant lodging",
+          "treatment_mm": "ကာဘန်ဒါဇင် (Carbendazim) သို့မဟုတ် မန်ကိုဇက် (Mancozeb) ပါဝင်သော ဆေးများဖြင့် ပင်ခြေကို နှံ့စပ်အောင် ဖျန်းပေးရန်။",
+          "treatment_en": "Thoroughly spray the plant base with Carbendazim or Mancozeb-based treatments."
+        }
+      ],
+      "cultivation_tips": {
+        "fertilizer_plan_mm": "စံပယ်ရနံ့ ပိုမိုသင်းပျံ့စေရန် အော်ဂဲနစ်မြေသြဇာနှင့် ပိုတက်ရှ်ကို အလေးပေးသုံးပါ။ နိုက်ထရိုဂျင်များပါက အနံ့လျော့သွားတတ်သည်။",
+        "fertilizer_plan_en": "Emphasize organic fertilizer and potash to enhance its natural floral aroma. Excessive nitrogen reduces grain fragrance.",
+        "optimal_water_level_mm": "စိုက်ခင်းအတွင်း ရေထိန်းသိမ်းမှု မှန်ကန်ရမည်ဖြစ်ပြီး ရိတ်သိမ်းခါနီး ၁၀ ရက်အလိုတွင် ရေထုတ်ပေးရမည်။",
+        "optimal_water_level_en": "Ensure proper water management in the field, and drain the field 10 days before harvest."
+      },
+      "market_value_mm": "မြင့်မား (ပြည်တွင်း/ပြည်ပ ဈေးကွက်တွင် လူကြိုက်များပြီး စံပယ်ဆန်အဖြစ် ဝယ်လိုအား အထူးကောင်းမွန်သည်)",
+      "market_value_en": "High (Highly popular in domestic and export markets with strong demand as Jasmine rice)",
+      "best_practices_mm": "ဆန်းသစ်ချိန်တွင် သင်းပျံ့သောအနံ့ ပိုမိုရရှိသဖြင့် ရိတ်သိမ်းပြီးပါက စနစ်တကျ သန့်စင်အခြောက်ခံကာ သိုလှောင်ရန် လိုအပ်သည်။",
+      "best_practices_en": "New crop rice yields the strongest aroma; ensure proper cleaning, drying, and storage after harvest."
+    },
+    {
+      "id": "R-028",
+      "name_mm": "အမေရိကန် အစေ့ရှည်ဆန်",
+      "name_en": "American Long-Grain Rice",
+      "season_mm": "နွေစပါး / မိုးစပါး",
+      "season_en": "Summer / Monsoon Rice",
+      "life_cycle_days": 120,
+      "yield_potential_mm": "၆၅ - ၈၀ တင်း",
+      "yield_potential_en": "65 - 80 Baskets per acre",
+      "grain_type_mm": "အစေ့ရှည် / အမွှေးမပါ",
+      "grain_type_en": "Long-Grain / Non-aromatic",
+      "plant_height_mm": "၉၅ - ၁၀၅ စင်တီမီတာ",
+      "plant_height_en": "95 - 105 cm",
+      "soil_type_mm": "နုန်းစေးမြေ သို့မဟုတ် ရေထိန်းအားကောင်းသော မြေပြန့်မြေ",
+      "soil_type_en": "Silty clay or water-retentive flatland soil",
+      "sowing_time_mm": "မေလ မှ ဇူလိုင်လ (သို့မဟုတ်) ဖေဖော်ဝါရီလ",
+      "sowing_time_en": "May to July (or) February",
+      "harvesting_time_mm": "စက်တင်ဘာလ (သို့မဟုတ်) ဇွန်လ",
+      "harvesting_time_en": "September (or) June",
+      "resistances_mm": [
+        "လဲပြိုမှုဒဏ်",
+        "အပင်ယိုင်နဲ့မှုဒဏ်"
+      ],
+      "resistances_en": [
+        "Lodging resistance",
+        "Stem breakage resistance"
+      ],
+      "description_mm": "အမေရိကန် အစေ့ရှည်စပါးမျိုးသည် သဘာဝအနံ့မွှေးဓာတ် မပါရှိသော်လည်း ချက်ပြုတ်ရလွယ်ကူပြီး ချက်ပြီးပါက စီးကပ်မနေဘဲ အစေ့လိုက် သီးခြားစီ ခြောက်သွေ့နေသော အမျိုးအစားဖြစ်သည်။ အထွက်နှုန်း ကောင်းမွန်ပြီး စက်မှုနည်းပညာဖြင့် သန့်စင်ရန် သင့်တော်သည်။",
+      "description_en": "American Long-Grain rice is non-aromatic, easy to cook, and yields fluffy, separate grains when cooked. Offers high yields and is well-suited for mechanized processing.",
+      "diseases_and_pests": [
+        {
+          "name_mm": "စပါးဂုတ်ကျိုးရောဂါ",
+          "name_en": "Neck Blast",
+          "symptoms_mm": "အနှံလည်ပင်းတွင် အမည်းကွက်ဖြစ်ပြီး အနှံကျိုးကျခြင်း",
+          "symptoms_en": "Black spot at the panicle neck causing breakage",
+          "treatment_mm": "ထရိုင်ဆိုင်ကလာဇော (Tricyclazole) ပါဝင်သော မှိုသတ်ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Tricyclazole-based fungicides."
+        },
+        {
+          "name_mm": "စပါးရွက်လိပ်ပိုး",
+          "name_en": "Leaf Folder",
+          "symptoms_mm": "အရွက်များလိပ်ပြီး အတွင်းမှ စားသောက်ခြင်း",
+          "symptoms_en": "Leaves roll and tissue is eaten from inside",
+          "treatment_mm": "အေဘမက်တင် (Abamectin) သို့မဟုတ် ကာတက် (Cartap Hydrochloride) ကို အညွှန်းအတိုင်း ဖျန်းပေးရန်။",
+          "treatment_en": "Spray Abamectin or Cartap Hydrochloride according to instructions."
+        },
+        {
+          "name_mm": "ပိုးစိမ်းဖျက်",
+          "name_en": "Rice Bug",
+          "symptoms_mm": "စပါးစေ့များကို စုပ်စားသဖြင့် အစေ့မပါခြင်း (သို့) အစေ့ညိုမည်းခြင်း",
+          "symptoms_en": "Sucks grain sap causing empty or blackened grains",
+          "treatment_mm": "အစီဖိတ် (Acephate) သို့မဟုတ် ဖစ်ပရိုနေး (Fipronil) ပါဝင်သော ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Acephate or Fipronil-based treatments."
+        },
+        {
+          "name_mm": "ခါးရိရောဂါ",
+          "name_en": "Sheath Blight",
+          "symptoms_mm": "ပင်ခြေတွင် အညိုရောင်အကွက်ဖြစ်ပြီး အပင်လဲပြိုခြင်း",
+          "symptoms_en": "Brown patches at the base causing plant lodging",
+          "treatment_mm": "ကာဘန်ဒါဇင် (Carbendazim) သို့မဟုတ် မန်ကိုဇက် (Mancozeb) ပါဝင်သော ဆေးများဖြင့် ပင်ခြေကို နှံ့စပ်အောင် ဖျန်းပေးရန်။",
+          "treatment_en": "Thoroughly spray the plant base with Carbendazim or Mancozeb-based treatments."
+        }
+      ],
+      "cultivation_tips": {
+        "fertilizer_plan_mm": "အထွက်နှုန်း မြင့်မားသော မျိုးဖြစ်သဖြင့် အပင်ကြီးထွားချိန်တွင် ယူရီးယား၊ တီစူပါ နှင့် ပိုတက်ရှ်ကို အချိုးကျ စနစ်တကျ ထည့်သွင်းပေးရမည်။",
+        "fertilizer_plan_en": "As a high-yielding variety, systematically apply balanced doses of urea, triple superphosphate, and potash during active growth stages.",
+        "optimal_water_level_mm": "အပင်ပွားချိန်တွင် ရေ အနက် ၅ - ၁၀ စင်တီမီတာခန့် အမြဲထိန်းထားပေးရန် လိုအပ်သည်။",
+        "optimal_water_level_en": "Maintain a consistent water depth of around 5 - 10 cm during the tillering stage."
+      },
+      "market_value_mm": "မြင့်မား (အနောက်တိုင်း စားသောက်ကုန်များ၊ ထမင်းကြော်နှင့် အထွေထွေ ဟင်းလျာများအတွက် ဝယ်လိုအား စျေးကွက်ခိုင်မာသည်)",
+      "market_value_en": "High (Stable demand for Western dishes, fried rice, and general culinary uses)",
+      "best_practices_mm": "စိုက်ခင်းအတွင်း ပေါင်းမြက်များကို စနစ်တကျ နှိမ်နင်းပါ။ အနှံထွက်ချိန်တွင် အမိုးအကာနှင့် အစိုဓာတ် ထိန်းသိမ်းမှု ကောင်းမွန်ပါက အထွက်နှုန်း ပိုမိုတိုးတက်စေပါသည်။",
+      "best_practices_en": "Systematically control weeds in the field. Proper moisture management during panicle initiation optimizes overall yield."
+    }
+  ]
+},
+{
+  "category_id": "C-007",
+  "image_url": "assets/images/Distillery Rice.jpg",
+  "category_name_mm": "ခေါင်ရည်/အရက်ချက် စပါးများ",
+  "category_name_en": "Distillery / Processing Rice",
+  "description_mm": "ခေါင်ရည်၊ ရိုးရာဆန်ဝိုင်၊ ဘီယာ၊ စက်မှုဇုန် အရက်ချက်လုပ်ငန်းများနှင့် အချိုဖောက်လုပ်ငန်းများတွင် အသုံးပြုသော စပါးမျိုးများ",
+  "description_en": "Specialized rice varieties with specific starch and amylose profiles cultivated for traditional rice wine, brewing, and industrial distillation.",
+  "varieties": [
+    {
+      "id": "R-029",
+      "name_mm": "ကောက်ညှင်းစပါး (ခေါင်ရည်နှင့် ရိုးရာဆန်ဝိုင်သုံး)",
+      "name_en": "Glutinous Rice for Traditional Wine & Rice Beer",
+      "season_mm": "မိုးစပါး / ဆောင်းစပါး",
+      "season_en": "Monsoon / Winter Rice",
+      "life_cycle_days": 135,
+      "yield_potential_mm": "၅၀ - ၆၅ တင်း",
+      "yield_potential_en": "50 - 65 Baskets per acre",
+      "grain_type_mm": "အစေ့တို/စိမ့် / Amylopectin မြင့်",
+      "grain_type_en": "Short/Opaque grain / High Amylopectin",
+      "plant_height_mm": "၁၁၀ - ၁၂၅ စင်တီမီတာ",
+      "plant_height_en": "110 - 125 cm",
+      "soil_type_mm": "နုန်းစေးမြေ သို့မဟုတ် တောင်ယာမြေ",
+      "soil_type_en": "Clay loam or upland fertile soil",
+      "sowing_time_mm": "ဇွန်လ မှ ဇူလိုင်လ",
+      "sowing_time_en": "June to July",
+      "harvesting_time_mm": "နိုဝင်ဘာလ မှ ဒီဇင်ဘာလ",
+      "harvesting_time_en": "November to December",
+      "resistances_mm": [
+        "အချိုဖောက်ခံနိုင်မှု",
+        "ဒေသရာသီဥတုဒဏ်"
+      ],
+      "resistances_en": [
+        "Fermentation suitability",
+        "Local climate resilience"
+      ],
+      "description_mm": "တိုင်းရင်းသား ရိုးရာခေါင်ရည်နှင့် ဆန်ဝိုင် (Rice Wine) များ ဖောက်လုပ်ရာတွင် အဓိကသုံးသည့် ကောက်ညှင်းစပါးဖြစ်သည်။ Amylopectin ဓာတ်မြင့်မားသဖြင့် အချိုဓာတ်ပြောင်းလွယ်ပြီး မွှေးကြိုင်ကာ အရသာနူးညံ့သော ရိုးရာခေါင်ရည်ကို ရရှိစေသည်။",
+      "description_en": "Glutinous rice variety predominantly used for brewing traditional ethnic rice wines and traditional spirits. High amylopectin content allows easy sugar conversion, yielding rich, aromatic, and sweet rice wine.",
+      "diseases_and_pests": [
+        {
+          "name_mm": "စပါးဂုတ်ကျိုးရောဂါ",
+          "name_en": "Neck Blast",
+          "symptoms_mm": "အနှံလည်ပင်းတွင် အမည်းကွက်ဖြစ်ပြီး အနှံကျိုးကျခြင်း",
+          "symptoms_en": "Black spot at the panicle neck causing breakage",
+          "treatment_mm": "ထရိုင်ဆိုင်ကလာဇော (Tricyclazole) ပါဝင်သော မှိုသတ်ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Tricyclazole-based fungicides."
+        },
+        {
+          "name_mm": "စပါးရွက်လိပ်ပိုး",
+          "name_en": "Leaf Folder",
+          "symptoms_mm": "အရွက်များလိပ်ပြီး အတွင်းမှ စားသောက်ခြင်း",
+          "symptoms_en": "Leaves roll and tissue is eaten from inside",
+          "treatment_mm": "အေဘမက်တင် (Abamectin) သို့မဟုတ် ကာတက် (Cartap Hydrochloride) ကို အညွှန်းအတိုင်း ဖျန်းပေးရန်။",
+          "treatment_en": "Spray Abamectin or Cartap Hydrochloride according to instructions."
+        },
+        {
+          "name_mm": "ပိုးစိမ်းဖျက်",
+          "name_en": "Rice Bug",
+          "symptoms_mm": "စပါးစေ့များကို စုပ်စားသဖြင့် အစေ့မပါခြင်း (သို့) အစေ့ညိုမည်းခြင်း",
+          "symptoms_en": "Sucks grain sap causing empty or blackened grains",
+          "treatment_mm": "အစီဖိတ် (Acephate) သို့မဟုတ် ဖစ်ပရိုနေး (Fipronil) ပါဝင်သော ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Acephate or Fipronil-based treatments."
+        },
+        {
+          "name_mm": "ခါးရိရောဂါ",
+          "name_en": "Sheath Blight",
+          "symptoms_mm": "ပင်ခြေတွင် အညိုရောင်အကွက်ဖြစ်ပြီး အပင်လဲပြိုခြင်း",
+          "symptoms_en": "Brown patches at the base causing plant lodging",
+          "treatment_mm": "ကာဘန်ဒါဇင် (Carbendazim) သို့မဟုတ် မန်ကိုဇက် (Mancozeb) ပါဝင်သော ဆေးများဖြင့် ပင်ခြေကို နှံ့စပ်အောင် ဖျန်းပေးရန်။",
+          "treatment_en": "Thoroughly spray the plant base with Carbendazim or Mancozeb-based treatments."
+        }
+      ],
+      "cultivation_tips": {
+        "fertilizer_plan_mm": "အချိုဖောက်နှုန်း ကောင်းမွန်စေရန် သဘာဝမြေသြဇာနှင့် ပိုတက်ရှ်ကို အလေးပေး သုံးစွဲပါ။",
+        "fertilizer_plan_en": "Prioritize organic compost and potassium fertilizers to enhance starch quality for fermentation.",
+        "optimal_water_level_mm": "အပင်ပွားချိန်တွင် ရေ အနက် ၅ စင်တီမီတာခန့် မပြတ် ထိန်းသိမ်းထားရန် လိုအပ်သည်။",
+        "optimal_water_level_en": "Maintain consistent water depth around 5 cm during active tillering."
+      },
+      "market_value_mm": "မြင့်မား (ဒေသတွင်း ရိုးရာခေါင်ရည်လုပ်ငန်းများနှင့် ပွဲတော်ရာသီများတွင် ဝယ်လိုအား အလွန်ကောင်းသည်)",
+      "market_value_en": "High (Strong local demand for traditional brewing, especially during cultural festivals)",
+      "best_practices_mm": "စပါးစေ့ ရင့်မှည့်ချိန်တွင် ရိတ်သိမ်းပြီး အစိုဓာတ် ၁၃% - ၁၄% ရောက်အောင် စနစ်တကျ အခြောက်ခံရမည်။",
+      "best_practices_en": "Harvest at full maturity and dry properly to 13-14% moisture content to preserve starch structure."
+    },
+    {
+      "id": "R-030",
+      "name_mm": "အမီလို့စ်မြင့် စပါး (စက်ရုံထုတ် အရက်ပြင်းနှင့် ဘီယာသုံး)",
+      "name_en": "High-Amylose Rice for Industrial Distillation",
+      "season_mm": "မိုးစပါး / နွေစပါး",
+      "season_en": "Monsoon / Summer Rice",
+      "life_cycle_days": 120,
+      "yield_potential_mm": "၆၅ - ၈၅ တင်း",
+      "yield_potential_en": "65 - 85 Baskets per acre",
+      "grain_type_mm": "အစေ့ကြီး / Amylose မြင့် / ကစီဓာတ်မြင့်",
+      "grain_type_en": "Large grain / High-Amylose / High-Starch",
+      "plant_height_mm": "၉၅ - ၁၀၅ စင်တီမီတာ",
+      "plant_height_en": "95 - 105 cm",
+      "soil_type_mm": "နုန်းစေးမြေ သို့မဟုတ် ရေထိန်းအားကောင်းသော မြေပြန့်မြေ",
+      "soil_type_en": "Silty clay or water-retentive flatland soil",
+      "sowing_time_mm": "ဇွန်လ (မိုး) သို့မဟုတ် ဖေဖော်ဝါရီလ (နွေ)",
+      "sowing_time_en": "June (Monsoon) or February (Summer)",
+      "harvesting_time_mm": "နိုဝင်ဘာလ (မိုး) သို့မဟုတ် ဇွန်လ (နွေ)",
+      "harvesting_time_en": "November (Monsoon) or June (Summer)",
+      "resistances_mm": [
+        "လဲပြိုမှုဒဏ်",
+        "ပိုးမွှားဒဏ်"
+      ],
+      "resistances_en": [
+        "Lodging resistance",
+        "Pest resistance"
+      ],
+      "description_mm": "Amylose ဓာတ် (၂၅% အထက်) မြင့်မားစွာ ပါဝင်သော စပါးမျိုးဖြစ်သည်။ အရက်ချက်စက်ရုံများတွင် အယ်လ်ကိုဟော (Alcohol) ရာခိုင်နှုန်း မြင့်မားစွာ ထွက်ရှိစေရန်နှင့် ဘီယာချက်ရာတွင် ကစီဓာတ်ဖြည့်စွက်ရန် အဓိက အသုံးပြုသည်။",
+      "description_en": "High-amylose rice (>25%) designed for commercial distilleries and breweries. Offers maximum alcohol yield per ton of grain, making it ideal for industrial distillation.",
+      "diseases_and_pests": [
+        {
+          "name_mm": "စပါးဂုတ်ကျိုးရောဂါ",
+          "name_en": "Neck Blast",
+          "symptoms_mm": "အနှံလည်ပင်းတွင် အမည်းကွက်ဖြစ်ပြီး အနှံကျိုးကျခြင်း",
+          "symptoms_en": "Black spot at the panicle neck causing breakage",
+          "treatment_mm": "ထရိုင်ဆိုင်ကလာဇော (Tricyclazole) ပါဝင်သော မှိုသတ်ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Tricyclazole-based fungicides."
+        },
+        {
+          "name_mm": "စပါးရွက်လိပ်ပိုး",
+          "name_en": "Leaf Folder",
+          "symptoms_mm": "အရွက်များလိပ်ပြီး အတွင်းမှ စားသောက်ခြင်း",
+          "symptoms_en": "Leaves roll and tissue is eaten from inside",
+          "treatment_mm": "အေဘမက်တင် (Abamectin) သို့မဟုတ် ကာတက် (Cartap Hydrochloride) ကို အညွှန်းအတိုင်း ဖျန်းပေးရန်။",
+          "treatment_en": "Spray Abamectin or Cartap Hydrochloride according to instructions."
+        },
+        {
+          "name_mm": "ပိုးစိမ်းဖျက်",
+          "name_en": "Rice Bug",
+          "symptoms_mm": "စပါးစေ့များကို စုပ်စားသဖြင့် အစေ့မပါခြင်း (သို့) အစေ့ညိုမည်းခြင်း",
+          "symptoms_en": "Sucks grain sap causing empty or blackened grains",
+          "treatment_mm": "အစီဖိတ် (Acephate) သို့မဟုတ် ဖစ်ပရိုနေး (Fipronil) ပါဝင်သော ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Acephate or Fipronil-based treatments."
+        },
+        {
+          "name_mm": "ခါးရိရောဂါ",
+          "name_en": "Sheath Blight",
+          "symptoms_mm": "ပင်ခြေတွင် အညိုရောင်အကွက်ဖြစ်ပြီး အပင်လဲပြိုခြင်း",
+          "symptoms_en": "Brown patches at the base causing plant lodging",
+          "treatment_mm": "ကာဘန်ဒါဇင် (Carbendazim) သို့မဟုတ် မန်ကိုဇက် (Mancozeb) ပါဝင်သော ဆေးများဖြင့် ပင်ခြေကို နှံ့စပ်အောင် ဖျန်းပေးရန်။",
+          "treatment_en": "Thoroughly spray the plant base with Carbendazim or Mancozeb-based treatments."
+        }
+      ],
+      "cultivation_tips": {
+        "fertilizer_plan_mm": "အထွက်နှုန်းနှင့် ကစီဓာတ် အပြည့်အဝရရှိရေးအတွက် ယူရီးယား၊ တီစူပါ နှင့် ပိုတက်ရှ်ကို အချိုးကျ ခွဲကျွေးရန်။",
+        "fertilizer_plan_en": "Apply balanced split doses of urea, triple superphosphate, and potash to maximize starch accumulation and yield.",
+        "optimal_water_level_mm": "စိုက်ခင်းအတွင်း ရေမပြတ်ရှိစေရန် ထိန်းသိမ်းပြီး ရိတ်သိမ်းခါနီး ၁၀ ရက်အလိုတွင် ရေထုတ်ပေးရမည်။",
+        "optimal_water_level_en": "Maintain steady field flooding and drain 10 days before harvesting."
+      },
+      "market_value_mm": "ကောင်းမွန် (အရက်ချက်စက်ရုံများနှင့် ဘီယာထုတ်လုပ်သည့် လုပ်ငန်းကြီးများမှ ပမာဏအများအပြား အမြဲဝယ်လိုအားရှိသည်)",
+      "market_value_en": "Good (Stable bulk demand from commercial distilleries and beverage corporations)",
+      "best_practices_mm": "စက်မှုသုံးဖြစ်သဖြင့် အထွက်နှုန်းမြင့်မားရေးနှင့် အစေ့အဆန် အပြည့်ဖြစ်စေရန် ပိုးမွှားရောဂါကို စနစ်တကျ ကာကွယ်ပါ။",
+      "best_practices_en": "Focus on high-yield management and pest control to maximize output for industrial buyers."
+    },
+    {
+      "id": "R-031",
+      "name_mm": "ဆန်ကွဲ / စက်မှုသုံးစပါး (အထွေထွေ အရက်ချက်နှင့် ဘီယာသုံး)",
+      "name_en": "Broken Rice / Industrial Processing Rice",
+      "season_mm": "နွေစပါး / မိုးစပါး",
+      "season_en": "Summer / Monsoon Rice",
+      "life_cycle_days": 115,
+      "yield_potential_mm": "၇၀ - ၉၀ တင်း",
+      "yield_potential_en": "70 - 90 Baskets per acre",
+      "grain_type_mm": "အစေ့အသင့်အတင့် / ကုန်ကျစရိတ်သက်သာ",
+      "grain_type_en": "Medium grain / Low-cost processing type",
+      "plant_height_mm": "၉၀ - ၁၀၀ စင်တီမီတာ",
+      "plant_height_en": "90 - 100 cm",
+      "soil_type_mm": "မည်သည့်စိုက်ပျိုးမြေမျိုးမဆို (မြေပြန့်)",
+      "soil_type_en": "Adaptable to various lowland soil types",
+      "sowing_time_mm": "ဖေဖော်ဝါရီလ (သို့မဟုတ်) ဇွန်လ",
+      "sowing_time_en": "February (or) June",
+      "harvesting_time_mm": "ဇွန်လ (သို့မဟုတ်) အောက်တိုဘာလ",
+      "harvesting_time_en": "June (or) October",
+      "resistances_mm": [
+        "အထွက်နှုန်းမြင့်မားမှု",
+        "ရောဂါဒဏ်ခံနိုင်မှု"
+      ],
+      "resistances_en": [
+        "High yield capacity",
+        "Disease tolerance"
+      ],
+      "description_mm": "စက်ရုံများတွင် အရက်နှင့် ဘီယာချက်လုပ်ရာ၌ ကုန်ကျစရိတ် သက်သာစွာဖြင့် အမြောက်အမြား ထုတ်လုပ်နိုင်ရန် သုံးစွဲသည့် စက်မှုသုံး စပါး/ဆန်ကွဲ အမျိုးအစားဖြစ်သည်။ ဖောက်လုပ်ရလွယ်ကူပြီး စက်မှုဇုန် အရက်ချက်စက်ရုံများ၏ အဓိက ကုန်ကြမ်းဖြစ်သည်။",
+      "description_en": "Economical processing rice and broken rice widely used in large-scale commercial distilleries and breweries. Provides a cost-effective substrate for alcohol fermentation and beer adjuncts.",
+      "diseases_and_pests": [
+        {
+          "name_mm": "စပါးဂုတ်ကျိုးရောဂါ",
+          "name_en": "Neck Blast",
+          "symptoms_mm": "အနှံလည်ပင်းတွင် အမည်းကွက်ဖြစ်ပြီး အနှံကျိုးကျခြင်း",
+          "symptoms_en": "Black spot at the panicle neck causing breakage",
+          "treatment_mm": "ထရိုင်ဆိုင်ကလာဇော (Tricyclazole) ပါဝင်သော မှိုသတ်ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Tricyclazole-based fungicides."
+        },
+        {
+          "name_mm": "စပါးရွက်လိပ်ပိုး",
+          "name_en": "Leaf Folder",
+          "symptoms_mm": "အရွက်များလိပ်ပြီး အတွင်းမှ စားသောက်ခြင်း",
+          "symptoms_en": "Leaves roll and tissue is eaten from inside",
+          "treatment_mm": "အေဘမက်တင် (Abamectin) သို့မဟုတ် ကာတက် (Cartap Hydrochloride) ကို အညွှန်းအတိုင်း ဖျန်းပေးရန်။",
+          "treatment_en": "Spray Abamectin or Cartap Hydrochloride according to instructions."
+        },
+        {
+          "name_mm": "ပိုးစိမ်းဖျက်",
+          "name_en": "Rice Bug",
+          "symptoms_mm": "စပါးစေ့များကို စုပ်စားသဖြင့် အစေ့မပါခြင်း (သို့) အစေ့ညိုမည်းခြင်း",
+          "symptoms_en": "Sucks grain sap causing empty or blackened grains",
+          "treatment_mm": "အစီဖိတ် (Acephate) သို့မဟုတ် ဖစ်ပရိုနေး (Fipronil) ပါဝင်သော ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Acephate or Fipronil-based treatments."
+        },
+        {
+          "name_mm": "ခါးရိရောဂါ",
+          "name_en": "Sheath Blight",
+          "symptoms_mm": "ပင်ခြေတွင် အညိုရောင်အကွက်ဖြစ်ပြီး အပင်လဲပြိုခြင်း",
+          "symptoms_en": "Brown patches at the base causing plant lodging",
+          "treatment_mm": "ကာဘန်ဒါဇင် (Carbendazim) သို့မဟုတ် မန်ကိုဇက် (Mancozeb) ပါဝင်သော ဆေးများဖြင့် ပင်ခြေကို နှံ့စပ်အောင် ဖျန်းပေးရန်။",
+          "treatment_en": "Thoroughly spray the plant base with Carbendazim or Mancozeb-based treatments."
+        }
+      ],
+      "cultivation_tips": {
+        "fertilizer_plan_mm": "အထွက်နှုန်း အများဆုံး ရရှိရန်အတွက် ဓာတ်မြေသြဇာကို နည်းစနစ်ကျကျ ခွဲကျွေးပါ။",
+        "fertilizer_plan_en": "Systematically split fertilizer applications to achieve maximum volume and yield.",
+        "optimal_water_level_mm": "စိုက်ခင်းတွင် ပုံမှန် ရေအနက် ၅ - ၁၀ စင်တီမီတာ ထိန်းထားပေးရန်။",
+        "optimal_water_level_en": "Maintain a regular water depth of 5 - 10 cm in the field."
+      },
+      "market_value_mm": "သင့်တင့် (စက်ရုံများသို့ အမြောက်အမြား တိုက်ရိုက် ရောင်းချနိုင်သည်)",
+      "market_value_en": "Moderate (Ideal for direct bulk sales to commercial processing plants)",
+      "best_practices_mm": "အထွက်နှုန်း များအောင် ဂရုစိုက် စိုက်ပျိုးပြီး စက်ရုံသုံးအတွက် သန့်ရှင်းခြောက်သွေ့စွာ သိုလှောင်ပါ။",
+      "best_practices_en": "Focus on high-volume yield management and maintain clean, dry storage for factory delivery."
+    }
+  ]
+},
+{
+  "category_id": "C-008",
+  "image_url": "assets/images/Glutinous Rice.jpg",
+  "category_name_mm": "ကောက်ညှင်းစပါးများ",
+  "category_name_en": "Glutinous / Sticky Rice Varieties",
+  "description_mm": "မြန်မာ့ရိုးရာ မုန့်ပဲသရေစာများ၊ ငချိပ်ပေါင်း၊ ကောက်ညှင်းပေါင်း၊ မုန့်ဆန်းနှင့် ရိုးရာပွဲတော်သုံး မုန့်များပြုလုပ်ရန် စိုက်ပျိုးကြသော ကောက်ညှင်းဖြူနှင့် ငချိပ်စပါးမျိုးများ",
+  "description_en": "Specialized glutinous and sticky rice varieties (both white and black/purple) cultivated for traditional Myanmar snacks, delicacies, festive dishes, and food processing.",
+  "varieties": [
+    {
+      "id": "R-032",
+      "name_mm": "ကောက်ညှင်းဖြူ (အငေါ် / ဒေသမျိုး)",
+      "name_en": "White Glutinous Rice (Local Broad-Grain)",
+      "season_mm": "မိုးစပါး / ဆောင်းစပါး",
+      "season_en": "Monsoon / Winter Rice",
+      "life_cycle_days": 135,
+      "yield_potential_mm": "၅၀ - ၆၅ တင်း",
+      "yield_potential_en": "50 - 65 Baskets per acre",
+      "grain_type_mm": "အစေ့တိုစိမ့် / စိမ့်ဖြူ / စေးကပ်မှုမြင့်",
+      "grain_type_en": "Short/Opaque White Grain / High Stickiness",
+      "plant_height_mm": "၁၁၀ - ၁၂၅ စင်တီမီတာ",
+      "plant_height_en": "110 - 125 cm",
+      "soil_type_mm": "နုန်းစေးမြေ သို့မဟုတ် ရေထိန်းအားကောင်းသော စိုက်ပျိုးမြေ",
+      "soil_type_en": "Clay loam or water-retentive fertile soil",
+      "sowing_time_mm": "ဇွန်လ မှ ဇူလိုင်လ",
+      "sowing_time_en": "June to July",
+      "harvesting_time_mm": "နိုဝင်ဘာလ မှ ဒီဇင်ဘာလ",
+      "harvesting_time_en": "November to December",
+      "resistances_mm": [
+        "ဒေသရာသီဥတုဒဏ်ခံနိုင်မှု",
+        "စေးကပ်မှု အရည်အသွေးကောင်းမွန်မှု"
+      ],
+      "resistances_en": [
+        "Local climate resilience",
+        "Superior cooking stickiness"
+      ],
+      "description_mm": "မြန်မာ့ရိုးရာ ကောက်ညှင်းပေါင်း၊ မုန့်ဆန်း၊ ကောက်ညှင်းကျည်တောက်နှင့် မုန့်မျိုးစုံပြုလုပ်ရာတွင် အဓိကသုံးသည့် အစေ့ဖြူစိမ့် ကောက်ညှင်းမျိုးဖြစ်သည်။ ချက်ပြုတ်ပြီးပါက စေးကပ်မှုအလွန်ကောင်းပြီး မွှေးကြိုင်နူးညံ့သည်။",
+      "description_en": "A premier white glutinous rice variety widely used for traditional Myanmar sticky rice dishes, snacks, and festive cakes. Known for its high amylopectin content, tender texture, and delightful aroma after steaming.",
+      "diseases_and_pests": [
+        {
+          "name_mm": "စပါးဂုတ်ကျိုးရောဂါ",
+          "name_en": "Neck Blast",
+          "symptoms_mm": "အနှံလည်ပင်းတွင် အမည်းကွက်ဖြစ်ပြီး အနှံကျိုးကျခြင်း",
+          "symptoms_en": "Black spot at the panicle neck causing breakage",
+          "treatment_mm": "ထရိုင်ဆိုင်ကလာဇော (Tricyclazole) ပါဝင်သော မှိုသတ်ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Tricyclazole-based fungicides."
+        },
+        {
+          "name_mm": "စပါးရွက်လိပ်ပိုး",
+          "name_en": "Leaf Folder",
+          "symptoms_mm": "အရွက်များလိပ်ပြီး အတွင်းမှ စားသောက်ခြင်း",
+          "symptoms_en": "Leaves roll and tissue is eaten from inside",
+          "treatment_mm": "အေဘမက်တင် (Abamectin) သို့မဟုတ် ကာတက် (Cartap Hydrochloride) ကို အညွှန်းအတိုင်း ဖျန်းပေးရန်။",
+          "treatment_en": "Spray Abamectin or Cartap Hydrochloride according to instructions."
+        },
+        {
+          "name_mm": "ပိုးစိမ်းဖျက်",
+          "name_en": "Rice Bug",
+          "symptoms_mm": "စပါးစေ့များကို စုပ်စားသဖြင့် အစေ့မပါခြင်း (သို့) အစေ့ညိုမည်းခြင်း",
+          "symptoms_en": "Sucks grain sap causing empty or blackened grains",
+          "treatment_mm": "အစီဖိတ် (Acephate) သို့မဟုတ် ဖစ်ပရိုနေး (Fipronil) ပါဝင်သော ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Acephate or Fipronil-based treatments."
+        },
+        {
+          "name_mm": "ခါးရိရောဂါ",
+          "name_en": "Sheath Blight",
+          "symptoms_mm": "ပင်ခြေတွင် အညိုရောင်အကွက်ဖြစ်ပြီး အပင်လဲပြိုခြင်း",
+          "symptoms_en": "Brown patches at the base causing plant lodging",
+          "treatment_mm": "ကာဘန်ဒါဇင် (Carbendazim) သို့မဟုတ် မန်ကိုဇက် (Mancozeb) ပါဝင်သော ဆေးများဖြင့် ပင်ခြေကို နှံ့စပ်အောင် ဖျန်းပေးရန်။",
+          "treatment_en": "Thoroughly spray the plant base with Carbendazim or Mancozeb-based treatments."
+        }
+      ],
+      "cultivation_tips": {
+        "fertilizer_plan_mm": "စေးကပ်မှုနှင့် မွှေးရနံ့ ကောင်းမွန်စေရန် သဘာဝမြေသြဇာနှင့် ပိုတက်ရှ်ကို အလေးပေး သုံးစွဲပါ။",
+        "fertilizer_plan_en": "Prioritize organic compost and potassium fertilizers to enhance grain stickiness and aroma.",
+        "optimal_water_level_mm": "အပင်ပွားချိန်တွင် ရေ အနက် ၅ စင်တီမီတာခန့် မပြတ် ထိန်းသိမ်းထားရန် လိုအပ်သည်။",
+        "optimal_water_level_en": "Maintain consistent water depth around 5 cm during active tillering."
+      },
+      "market_value_mm": "မြင့်မား (ဈေးကွက်တွင် အမြဲဝယ်လိုအားရှိပြီး ပွဲတော်ရာသီများတွင် ဈေးကောင်းရရှိသည်)",
+      "market_value_en": "High (Consistent market demand, especially premium pricing during traditional festival seasons)",
+      "best_practices_mm": "စပါးစေ့ ရင့်မှည့်ချိန်တွင် ရိတ်သိမ်းပြီး အစိုဓာတ် ၁၃% - ၁၄% ရောက်အောင် စနစ်တကျ အခြောက်ခံရမည်။",
+      "best_practices_en": "Harvest at optimal maturity and dry properly to 13-14% moisture content to preserve grain quality."
+    },
+    {
+      "id": "R-033",
+      "name_mm": "ငချိပ်စပါး (ကောက်ညှင်းနက်)",
+      "name_en": "Black Glutinous Rice (Nga Cheik)",
+      "season_mm": "မိုးစပါး",
+      "season_en": "Monsoon Rice",
+      "life_cycle_days": 140,
+      "yield_potential_mm": "၄၅ - ၆၀ တင်း",
+      "yield_potential_en": "45 - 60 Baskets per acre",
+      "grain_type_mm": "အစေ့နက် / ခရမ်းရောင်ရင့် / အောက်စီဒင့်ဆန့်ကျင်ဓာတ်မြင့်",
+      "grain_type_en": "Black/Deep Purple Grain / High Antioxidant (Anthocyanin)",
+      "plant_height_mm": "၁၁၅ - ၁၃၀ စင်တီမီတာ",
+      "plant_height_en": "115 - 130 cm",
+      "soil_type_mm": "နုန်းစေးမြေ သို့မဟုတ် တောင်ယာမြေ သြဂဲနစ်ထက်သန်သောမြေ",
+      "soil_type_en": "Fertile clay loam or organic-rich upland soil",
+      "sowing_time_mm": "ဇွန်လ",
+      "sowing_time_en": "June",
+      "harvesting_time_mm": "နိုဝင်ဘာလ မှ ဒီဇင်ဘာလ",
+      "harvesting_time_en": "November to December",
+      "resistances_mm": [
+        "ဓါတ်တိုးဆန့်ကျင်ပစ္စည်း (Anthocyanin) မြင့်မားမှု",
+        "ဒေသရာသီဥတုဒဏ်"
+      ],
+      "resistances_en": [
+        "Rich in Anthocyanin antioxidants",
+        "Local climate resilience"
+      ],
+      "description_mm": "ခရမ်းရောင်ရင့် သို့မဟုတ် အမည်းရောင်ရှိသော အာဟာရမြင့်မားသည့် ကောက်ညှင်းနက် (ငချိပ်) စပါးဖြစ်သည်။ ငချိပ်ပေါင်း၊ ငချိပ်ဝိုင်၊ မုန့်ဆန်းနှင့် ကျန်းမာရေးအတွက် အထူးသင့်လျော်သော ရိုးရာမုန့်များ ပြုလုပ်ရာတွင် အလွန်လူကြိုက်များသည်။",
+      "description_en": "Highly-valued black/purple glutinous rice packed with Anthocyanins and nutrients. Popular for traditional Nga Cheik steamed sticky rice, purple rice wine, specialty desserts, and health food applications.",
+      "diseases_and_pests": [
+        {
+          "name_mm": "စပါးဂုတ်ကျိုးရောဂါ",
+          "name_en": "Neck Blast",
+          "symptoms_mm": "အနှံလည်ပင်းတွင် အမည်းကွက်ဖြစ်ပြီး အနှံကျိုးကျခြင်း",
+          "symptoms_en": "Black spot at the panicle neck causing breakage",
+          "treatment_mm": "ထရိုင်ဆိုင်ကလာဇော (Tricyclazole) ပါဝင်သော မှိုသတ်ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Tricyclazole-based fungicides."
+        },
+        {
+          "name_mm": "စပါးရွက်လိပ်ပိုး",
+          "name_en": "Leaf Folder",
+          "symptoms_mm": "အရွက်များလိပ်ပြီး အတွင်းမှ စားသောက်ခြင်း",
+          "symptoms_en": "Leaves roll and tissue is eaten from inside",
+          "treatment_mm": "အေဘမက်တင် (Abamectin) သို့မဟုတ် ကာတက် (Cartap Hydrochloride) ကို အညွှန်းအတိုင်း ဖျန်းပေးရန်။",
+          "treatment_en": "Spray Abamectin or Cartap Hydrochloride according to instructions."
+        },
+        {
+          "name_mm": "ပိုးစိမ်းဖျက်",
+          "name_en": "Rice Bug",
+          "symptoms_mm": "စပါးစေ့များကို စုပ်စားသဖြင့် အစေ့မပါခြင်း (သို့) အစေ့ညိုမည်းခြင်း",
+          "symptoms_en": "Sucks grain sap causing empty or blackened grains",
+          "treatment_mm": "အစီဖိတ် (Acephate) သို့မဟုတ် ဖစ်ပရိုနေး (Fipronil) ပါဝင်သော ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Acephate or Fipronil-based treatments."
+        },
+        {
+          "name_mm": "ခါးရိရောဂါ",
+          "name_en": "Sheath Blight",
+          "symptoms_mm": "ပင်ခြေတွင် အညိုရောင်အကွက်ဖြစ်ပြီး အပင်လဲပြိုခြင်း",
+          "symptoms_en": "Brown patches at the base causing plant lodging",
+          "treatment_mm": "ကာဘန်ဒါဇင် (Carbendazim) သို့မဟုတ် မန်ကိုဇက် (Mancozeb) ပါဝင်သော ဆေးများဖြင့် ပင်ခြေကို နှံ့စပ်အောင် ဖျန်းပေးရန်။",
+          "treatment_en": "Thoroughly spray the plant base with Carbendazim or Mancozeb-based treatments."
+        }
+      ],
+      "cultivation_tips": {
+        "fertilizer_plan_mm": "အစေ့အရောင်နှင့် အာဟာရဓာတ် ပိုမိုကောင်းမွန်စေရန် သဘာဝမြေသြဇာနှင့် ပိုတက်ရှ်ကို အဓိကသုံးပေးပါ၊ နိုက်ထရိုဂျင် လွန်ကဲစွာ မသုံးရ။",
+        "fertilizer_plan_en": "Focus on organic compost and potassium; avoid excess nitrogen to preserve pigment intensity and grain quality.",
+        "optimal_water_level_mm": "စိုက်ခင်းအတွင်း ရေအနက် ၅ စင်တီမီတာခန့် ပုံမှန် ထိန်းထားပေးရန်။",
+        "optimal_water_level_en": "Maintain steady field water depth around 5 cm."
+      },
+      "market_value_mm": "အလွန်မြင့်မား (ရှားပါးပြီး ကျန်းမာရေးအတွက် အထူးဝယ်လိုအားရှိသဖြင့် ဈေးကောင်းရရှိသည်)",
+      "market_value_en": "Very High (Premium price due to health benefits and high specialty market demand)",
+      "best_practices_mm": "အရောင်နှင့် ရနံ့ မပျက်စီးစေရန် အရိပ်ထဲတွင် သို့မဟုတ် အမိုးအောက်တွင် စနစ်တကျ အခြောက်ခံပါ။",
+      "best_practices_en": "Dry in shade or covered space to maintain deep purple/black color intensity and natural aroma."
+    },
+    {
+      "id": "R-034",
+      "name_mm": "ကောက်ညှင်းယိုစပါး (အထွက်တိုး သက်တမ်းတို ကောက်ညှင်း)",
+      "name_en": "High-Yield Short-Duration Glutinous Rice",
+      "season_mm": "မိုးစပါး / နွေစပါး",
+      "season_en": "Monsoon / Summer Rice",
+      "life_cycle_days": 115,
+      "yield_potential_mm": "၆၀ - ၇၅ တင်း",
+      "yield_potential_en": "60 - 75 Baskets per acre",
+      "grain_type_mm": "အစေ့လတ်စိမ့် / စေးကပ်မှုသင့်တင့်",
+      "grain_type_en": "Medium Grain / Moderate Stickiness",
+      "plant_height_mm": "၉၅ - ၁၀၅ စင်တီမီတာ",
+      "plant_height_en": "95 - 105 cm",
+      "soil_type_mm": "နုန်းစေးမြေ သို့မဟုတ် မြေပြန့်စိုက်ပျိုးမြေ",
+      "soil_type_en": "Clay loam or standard lowland soil",
+      "sowing_time_mm": "ဇွန်လ (မိုး) သို့မဟုတ် ဖေဖော်ဝါရီလ (နွေ)",
+      "sowing_time_en": "June (Monsoon) or February (Summer)",
+      "harvesting_time_mm": "အောက်တိုဘာလ (မိုး) သို့မဟုတ် ဇွန်လ (နွေ)",
+      "harvesting_time_en": "October (Monsoon) or June (Summer)",
+      "resistances_mm": [
+        "သက်တမ်းတို၍ ရေငတ်ဒဏ်ခံနိုင်မှု",
+        "အထွက်နှုန်းမြင့်မားမှု"
+      ],
+      "resistances_en": [
+        "Short duration with drought tolerance",
+        "High yield capacity"
+      ],
+      "description_mm": "သက်တမ်းတိုပြီး အထွက်နှုန်းကောင်းမွန်သော ကောက်ညှင်းစပါးမျိုးဖြစ်သည်။ မုန့်စက်ရုံများ၊ မုန့်ပဲသရေစာ လုပ်ငန်းများနှင့် စီးပွားဖြစ် ကောက်ညှင်းယို/ကောက်ညှင်းမုန့် ထုတ်လုပ်သူများအတွက် အထူးသင့်လျော်သည်။",
+      "description_en": "Short-duration, high-yielding glutinous rice variety designed for commercial snack production, food processing factories, and confectionery products.",
+      "diseases_and_pests": [
+        {
+          "name_mm": "စပါးဂုတ်ကျိုးရောဂါ",
+          "name_en": "Neck Blast",
+          "symptoms_mm": "အနှံလည်ပင်းတွင် အမည်းကွက်ဖြစ်ပြီး အနှံကျိုးကျခြင်း",
+          "symptoms_en": "Black spot at the panicle neck causing breakage",
+          "treatment_mm": "ထရိုင်ဆိုင်ကလာဇော (Tricyclazole) ပါဝင်သော မှိုသတ်ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Tricyclazole-based fungicides."
+        },
+        {
+          "name_mm": "စပါးရွက်လိပ်ပိုး",
+          "name_en": "Leaf Folder",
+          "symptoms_mm": "အရွက်များလိပ်ပြီး အတွင်းမှ စားသောက်ခြင်း",
+          "symptoms_en": "Leaves roll and tissue is eaten from inside",
+          "treatment_mm": "အေဘမက်တင် (Abamectin) သို့မဟုတ် ကာတက် (Cartap Hydrochloride) ကို အညွှန်းအတိုင်း ဖျန်းပေးရန်။",
+          "treatment_en": "Spray Abamectin or Cartap Hydrochloride according to instructions."
+        },
+        {
+          "name_mm": "ပိုးစိမ်းဖျက်",
+          "name_en": "Rice Bug",
+          "symptoms_mm": "စပါးစေ့များကို စုပ်စားသဖြင့် အစေ့မပါခြင်း (သို့) အစေ့ညိုမည်းခြင်း",
+          "symptoms_en": "Sucks grain sap causing empty or blackened grains",
+          "treatment_mm": "အစီဖိတ် (Acephate) သို့မဟုတ် ဖစ်ပရိုနေး (Fipronil) ပါဝင်သော ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Acephate or Fipronil-based treatments."
+        },
+        {
+          "name_mm": "ခါးရိရောဂါ",
+          "name_en": "Sheath Blight",
+          "symptoms_mm": "ပင်ခြေတွင် အညိုရောင်အကွက်ဖြစ်ပြီး အပင်လဲပြိုခြင်း",
+          "symptoms_en": "Brown patches at the base causing plant lodging",
+          "treatment_mm": "ကာဘန်ဒါဇင် (Carbendazim) သို့မဟုတ် မန်ကိုဇက် (Mancozeb) ပါဝင်သော ဆေးများဖြင့် ပင်ခြေကို နှံ့စပ်အောင် ဖျန်းပေးရန်။",
+          "treatment_en": "Thoroughly spray the plant base with Carbendazim or Mancozeb-based treatments."
+        }
+      ],
+      "cultivation_tips": {
+        "fertilizer_plan_mm": "အထွက်နှုန်းမြင့်ရန် ယူရီးယား၊ တီစူပါ နှင့် ပိုတက်ရှ်ကို အချိုးကျ ခွဲကျွေးပါ။",
+        "fertilizer_plan_en": "Apply balanced split applications of urea, triple superphosphate, and potash for high yields.",
+        "optimal_water_level_mm": "စိုက်ခင်းတွင် ရေအနက် ၅ - ၁၀ စင်တီမီတာ ပုံမှန် ထိန်းထားပေးရန်။",
+        "optimal_water_level_en": "Maintain field water level between 5 - 10 cm."
+      },
+      "market_value_mm": "ကောင်းမွန် (စားသောက်ကုန်စက်ရုံများနှင့် မုန့်လုပ်ငန်းများမှ ပမာဏအများအပြား ဝယ်ယူကြသည်)",
+      "market_value_en": "Good (Steady bulk demand from food manufacturers and snack processing industries)",
+      "best_practices_mm": "သက်တမ်းတိုသဖြင့် ပိုးမွှားနှင့် စိုက်ပျိုးရေကို အချိန်ကိုက် ဂရုစိုက် စီမံခန့်ခွဲပါ။",
+      "best_practices_en": "Ensure timely irrigation and pest management to optimize the short crop cycle."
+    },
+    {
+      "id": "R-035",
+      "name_mm": "ကောက်ညှင်းမွှေး",
+      "name_en": "Fragrant Sticky Rice",
+      "season_mm": "မိုးစပါး",
+      "season_en": "Monsoon Rice",
+      "life_cycle_days": 140,
+      "yield_potential_mm": "၅၀ - ၇၀ တင်း",
+      "yield_potential_en": "50 - 70 Baskets per acre",
+      "grain_type_mm": "ကောက်ညှင်း/အမွှေး",
+      "grain_type_en": "Sticky / Fragrant grain",
+      "plant_height_mm": "၁၁၀ - ၁၂၀ စင်တီမီတာ",
+      "plant_height_en": "110 - 120 cm",
+      "soil_type_mm": "သြဇာကောင်းသော နုန်းမြေ",
+      "soil_type_en": "Fertile alluvial soil",
+      "sowing_time_mm": "ဇွန်လ မှ ဇူလိုင်လ",
+      "sowing_time_en": "June to July",
+      "harvesting_time_mm": "နိုဝင်ဘာလ မှ ဒီဇင်ဘာလ",
+      "harvesting_time_en": "November to December",
+      "resistances_mm": [
+        "ရောဂါဒဏ်",
+        "ပိုးမွှားဒဏ် (အသင့်အတင့်)"
+      ],
+      "resistances_en": [
+        "Disease resistance",
+        "Moderate pest resistance"
+      ],
+      "description_mm": "အနံ့မွှေးကြိုင်သော ကောက်ညှင်းစပါးဖြစ်ပြီး ရိုးရာမုန့်များအတွက် အထူးကောင်းမွန်သည်။ အရည်အသွေးမြင့်မားသဖြင့် အထူးလိုအပ်ချက်ရှိသော ဈေးကွက်တွင် ဈေးကောင်းရရှိသည်။",
+      "description_en": "A fragrant sticky rice variety, exceptionally good for traditional confectionery. Commands a good price in niche markets due to its high quality.",
+      "diseases_and_pests": [
+        {
+          "name_mm": "စပါးဂုတ်ကျိုးရောဂါ",
+          "name_en": "Neck Blast",
+          "symptoms_mm": "အနှံလည်ပင်းတွင် အမည်းကွက်ဖြစ်ပြီး အနှံကျိုးကျခြင်း",
+          "symptoms_en": "Black spot at the panicle neck causing breakage",
+          "treatment_mm": "ထရိုင်ဆိုင်ကလာဇော (Tricyclazole) ပါဝင်သော မှိသတ်ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Tricyclazole-based fungicides."
+        },
+        {
+          "name_mm": "စပါးရွက်လိပ်ပိုး",
+          "name_en": "Leaf Folder",
+          "symptoms_mm": "အရွက်များလိပ်ပြီး အတွင်းမှ စားသောက်ခြင်း",
+          "symptoms_en": "Leaves roll and tissue is eaten from inside",
+          "treatment_mm": "အေဘမက်တင် (Abamectin) သိုမဟုတ် ကာတက် (Cartap Hydrochloride) ကို အညွှန်းအတိုင်း ဖျန်းပေးရန်။",
+          "treatment_en": "Spray Abamectin or Cartap Hydrochloride according to instructions."
+        },
+        {
+          "name_mm": "ပိုးစိမ်းဖျက်",
+          "name_en": "Rice Bug",
+          "symptoms_mm": "စပါးစေ့များကို စုပ်စားသဖြင့် အစေ့မပါခြင်း (သို) အစေ့ညိုမည်းခြင်း",
+          "symptoms_en": "Sucks grain sap causing empty or blackened grains",
+          "treatment_mm": "အစီဖိတ် (Acephate) သိုမဟုတ် ဖစ်ပရိုနေး (Fipronil) ပါဝင်သော ဆေးများ အသုံးပြုရန်။",
+          "treatment_en": "Use Acephate or Fipronil-based treatments."
+        },
+        {
+          "name_mm": "ခါးရိရောဂါ",
+          "name_en": "Sheath Blight",
+          "symptoms_mm": "ပင်ခြေတွင် အညိုရောင်အကွက်ဖြစ်ပြီး အပင်လဲပြိုခြင်း",
+          "symptoms_en": "Brown patches at the base causing plant lodging",
+          "treatment_mm": "ကာဘန်ဒါဇင် (Carbendazim) သိုမဟုတ် မန်ကိုဇက် (Mancozeb) ပါဝင်သော ဆေးများဖြင့် ပင်ခြေကို နှံစပ်အောင် ဖျန်းပေးရန်။",
+          "treatment_en": "Thoroughly spray the plant base with Carbendazim or Mancozeb-based treatments."
+        }
+      ],
+      "cultivation_tips": {
+        "fertilizer_plan_mm": "ကောက်ညှင်းစပါးသည် အပင်ကြီးထွားမှုနှေးကွေးတတ်သဖြင့် မြေခံမြေသြဇာကို စနစ်တကျထည့်သွင်းပြီး အပင်သက်တမ်းအလိုက် ယူရီးယား၊ တီစူပါ နှင့် ပိုတက်ရှ်ကို မျှတစွာထည့်ပေးရန်။",
+        "fertilizer_plan_en": "Since sticky rice tends to have slower early growth, systematically apply base fertilizer and balanced amounts of urea, triple superphosphate, and potash according to crop age.",
+        "optimal_water_level_mm": "အပင်ဖြစ်ထွန်းချိန်တွင် ရေလိုအပ်ချက် အမြဲရှိသဖြင့် ရေသွင်းရေထုတ် စနစ်တကျ ပြုလုပ်ပေးရမည်။",
+        "optimal_water_level_en": "Ensure proper irrigation and drainage management as there is a constant water requirement during the plant's development."
+      },
+      "market_value_mm": "မြင့်မား (ရိုးရာမုန့်လုပ်ငန်းနှင့် အထူးစားသောက်ဆိုင်များအတွက် ဝယ်လိုအားရှိသည်)",
+      "market_value_en": "High (In demand for traditional confectionery and specialty restaurants)",
+      "best_practices_mm": "မျိုးစေ့သန့်စင်ခြင်း (ဆားရည်စိမ်) လုပ်ဆောင်ပြီးမှ စိုက်ပျိုးပါ။ ပေါင်းမြက်ကင်းစင်အောင် ထိန်းသိမ်းခြင်းက အထွက်နှုန်းနှင့် အရည်အသွေးကို ပိုမိုကောင်းမွန်စေပါသည်။",
+      "best_practices_en": "Clean seeds (saltwater soaking) before planting. Keeping fields weed-free further improves yield and quality."
+    }
+  ]
 }
+
   ]
 }
