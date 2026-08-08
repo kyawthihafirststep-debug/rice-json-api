@@ -1,6 +1,7 @@
 {
   "version": 2,
   "builds": [
-    { "src": "rice_varieties.json", "use": "@vercel/static" }
+    { "src": "rice_varieties.json", "use": "@vercel/static" },
+    { "src": "riceLeafRecycle.json", "use": "@vercel/static" }
   ]
 }
